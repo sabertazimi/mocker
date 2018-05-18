@@ -1,0 +1,10 @@
+package: github.com/sabertazimi/mocker
+homepage: https://github.com/sabertazimi/mocker
+license: MIT
+owners:
+- name: sabertazimi
+  email: sabertazimi@gmail.com
+  homepage: https://blog.hust.cf
+excludeDirs:
+- node_modules
+import: []

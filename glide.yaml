@@ -4,7 +4,7 @@ license: MIT
 owners:
 - name: sabertazimi
   email: sabertazimi@gmail.com
-  homepage: https://blog.hust.cf
+  homepage: https://tazimi.dev
 excludeDirs:
 - node_modules
 import: []
